@@ -1,0 +1,13 @@
+public class Suma{
+
+public static void main (String arg[])
+{
+  int dato1 = 2;
+  int dato2 = 6;
+  resultado = 0;
+  
+  resultado = dato1 + dato2;
+  
+  System.out.println("El valor de la suma es: " + resultado);   
+}
+}
