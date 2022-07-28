@@ -1,0 +1,8 @@
+/* Codigo para mostrar en mcd de la consola java el Hola mundo*/
+
+public class Jony{
+  public static void main(String arg[])
+  {
+    System.out.println("Hola Mundo");
+  }
+}
